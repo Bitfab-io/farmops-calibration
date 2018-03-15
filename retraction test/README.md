@@ -62,15 +62,3 @@ Once printing is done, we will check finished pieces and the presence of filamen
 * You can design you own retaction-test by using a structure of symmetric parts separated by a certain distance.
 <<<<<<< HEAD
 * Usefull URL in order to help you with the entire process, https://www.matterhackers.com/articles/retraction-just-say-no-to-oozing
-=======
-* Usefull URL in order to help you with the entire process, https://www.matterhackers.com/articles/retraction-just-say-no-to-oozing
-
-
-
-
-
-
-
-
-
->>>>>>> 03be96a552a265e451b2233ed0a5594f18e75255
